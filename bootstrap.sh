@@ -17,7 +17,6 @@ apt install -y \
     libltdl-dev \
     libncurses5-dev \
     libreadline-dev \
-    pandoc \
     python3-dev \
     python3-numpy \
     python3-pip \
